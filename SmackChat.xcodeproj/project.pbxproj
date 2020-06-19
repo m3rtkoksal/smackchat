@@ -15,6 +15,7 @@
 		8E8785E0249B897B00B4BB46 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E8785DE249B897B00B4BB46 /* SWRevealViewController.m */; };
 		8E8785E5249B8DE000B4BB46 /* ChatVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E8785E4249B8DE000B4BB46 /* ChatVC.swift */; };
 		8E8785E7249B8DEE00B4BB46 /* ChannelVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E8785E6249B8DEE00B4BB46 /* ChannelVC.swift */; };
+		8EAF32BF249CBB2B001BD19C /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EAF32BE249CBB2B001BD19C /* GradientView.swift */; };
 		F17203D3C8FA91252F335C19 /* Pods_SmackChat.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1C888600497FABFD83390306 /* Pods_SmackChat.framework */; };
 /* End PBXBuildFile section */
 
@@ -34,6 +35,7 @@
 		8E8785DF249B897B00B4BB46 /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
 		8E8785E4249B8DE000B4BB46 /* ChatVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatVC.swift; sourceTree = "<group>"; };
 		8E8785E6249B8DEE00B4BB46 /* ChannelVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelVC.swift; sourceTree = "<group>"; };
+		8EAF32BE249CBB2B001BD19C /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 		8E8785E2249B8DB900B4BB46 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				8EAF32BE249CBB2B001BD19C /* GradientView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -254,6 +257,7 @@
 			files = (
 				8E12BC76249B741A00E968C5 /* AppDelegate.swift in Sources */,
 				8E12BC78249B741A00E968C5 /* SceneDelegate.swift in Sources */,
+				8EAF32BF249CBB2B001BD19C /* GradientView.swift in Sources */,
 				8E8785E0249B897B00B4BB46 /* SWRevealViewController.m in Sources */,
 				8E8785E7249B8DEE00B4BB46 /* ChannelVC.swift in Sources */,
 				8E8785E5249B8DE000B4BB46 /* ChatVC.swift in Sources */,
