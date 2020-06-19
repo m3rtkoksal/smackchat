@@ -18,6 +18,7 @@
 		8EAF32BF249CBB2B001BD19C /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EAF32BE249CBB2B001BD19C /* GradientView.swift */; };
 		8EAF32C2249CCF15001BD19C /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EAF32C1249CCF15001BD19C /* Constants.swift */; };
 		8EAF32C4249CD3CA001BD19C /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EAF32C3249CD3CA001BD19C /* LoginVC.swift */; };
+		8EAF32C6249CD76B001BD19C /* CreateAccountVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EAF32C5249CD76B001BD19C /* CreateAccountVC.swift */; };
 		F17203D3C8FA91252F335C19 /* Pods_SmackChat.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1C888600497FABFD83390306 /* Pods_SmackChat.framework */; };
 /* End PBXBuildFile section */
 
@@ -40,6 +41,7 @@
 		8EAF32BE249CBB2B001BD19C /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		8EAF32C1249CCF15001BD19C /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		8EAF32C3249CD3CA001BD19C /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		8EAF32C5249CD76B001BD19C /* CreateAccountVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				8E8785E4249B8DE000B4BB46 /* ChatVC.swift */,
 				8E8785E6249B8DEE00B4BB46 /* ChannelVC.swift */,
 				8EAF32C3249CD3CA001BD19C /* LoginVC.swift */,
+				8EAF32C5249CD76B001BD19C /* CreateAccountVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -274,6 +277,7 @@
 				8EAF32C4249CD3CA001BD19C /* LoginVC.swift in Sources */,
 				8EAF32BF249CBB2B001BD19C /* GradientView.swift in Sources */,
 				8E8785E0249B897B00B4BB46 /* SWRevealViewController.m in Sources */,
+				8EAF32C6249CD76B001BD19C /* CreateAccountVC.swift in Sources */,
 				8EAF32C2249CCF15001BD19C /* Constants.swift in Sources */,
 				8E8785E7249B8DEE00B4BB46 /* ChannelVC.swift in Sources */,
 				8E8785E5249B8DE000B4BB46 /* ChatVC.swift in Sources */,
